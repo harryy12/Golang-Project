@@ -6,3 +6,4 @@
 [cinta888](https://github.com/cinta888)
 [xama12](https://github.com/xama12)
 [syafiraa](https://github.com/syafirakimia)
+[bocom](https://github.com/emailbocom7)
